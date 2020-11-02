@@ -6,13 +6,13 @@
 
 Term: Fall 2020
 
-+ Team ##
++ Team 4
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Citina Liang
+	+ Xujie Ma
+	+ Charles Shin
+	+ Rohan Uppuluri
+	+ Xinyi Wei
 
 + Project summary: In this project, we created a classification engine for facial emotion recognition. 
 	
