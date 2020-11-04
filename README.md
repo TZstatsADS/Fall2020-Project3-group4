@@ -14,7 +14,13 @@ Term: Fall 2020
 	+ Rohan Uppuluri
 	+ Xinyi Wei
 
-+ Project summary: In this project, we created a classification engine for facial emotion recognition. 
++ Project summary: In this project, we created a classification engine for facial emotion recognition. Using Gradient Boosting Machines as our baseline model, we did the following research and optimization.
+	+ Improved feature extraction method and got one with less calculation time and higher test accuracy
+	+ Implemented various models including KNN, XGBoost, Random Forest, LDA, Logistic Regression, SVM, Lasso
+	+ Used SMOTE(oversampling/undersampling) technique and did hyperparameter tuning to solve imbalanced classification problem in various models
+According to AUC scores, we chose four outstanding models: XGBoost with SMOTE, Weighted Logistic Regression, Weighted SVM and Weighted Lasso.
+Finally, by comparing cross validation scores of the four models, we selected XGBoost with SMOTE as the best model with higher AUC and balanced accuracy score and acceptable prediction time.
+We predicted test accuracy on the new test dataset was about 70%.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
