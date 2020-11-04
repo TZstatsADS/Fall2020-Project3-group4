@@ -18,7 +18,8 @@ Term: Fall 2020
 	+ Improved feature extraction method and got one with less calculation time and higher test accuracy
 	+ Implemented various models including KNN, XGBoost, Random Forest, LDA, Logistic Regression, SVM, Lasso
 	+ Used SMOTE(oversampling/undersampling) technique and did hyperparameter tuning to solve imbalanced classification problem in various models
-\setlength{\leftskip}{1cm}According to AUC scores, we chose four outstanding models: XGBoost with SMOTE, Weighted Logistic Regression, Weighted SVM and Weighted Lasso.Finally, by comparing cross validation scores of the four models, we selected XGBoost with SMOTE as the best model with higher AUC and balanced accuracy score and acceptable prediction time.We predicted test accuracy on the new test dataset was about 70%.
+	+ Selected XGBoost with SMOTE as the best model after cross validation with higher AUC and balanced accuracy score and acceptable prediction time
+	+ Predicted test accuracy on the new test dataset was about 70%
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
