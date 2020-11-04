@@ -21,7 +21,17 @@ Term: Fall 2020
 	+ Selected XGBoost with SMOTE as the best model after cross validation with higher AUC and balanced accuracy score and acceptable prediction time
 	+ Predicted test accuracy on the new test dataset was about 70%
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Rohan Uppuluri implemented the GBM, KNN, and SMOTE Bagging models. Rohan also wrote the documentation for the main notebook. Xujie Ma did feature improvement, implemented XGBoost model and organized the slides for presentation. Citina built SVM and Lasso models and did hyperparameter tuning to improve the models. And Citina also did the 10-fold cross-validation on weighted SVM and weighted Lasso. Xinyi Wei implemented the Random Forest Model, LDA and Logistic model. Xinyi also did the 10-fold cross-validation on weighted Logistic. Charles Shin implemented the Naive bayes model, contributed to the presentation slides, and edited the Github repository descriptions.
+**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+
+Rohan Uppuluri implemented the GBM, KNN, and SMOTE Bagging models. Rohan also organized and wrote the documentation for the main notebook. 
+
+Xujie Ma did feature improvement, implemented XGBoost model and organized the slides for presentation. 
+
+Citina built SVM and Lasso models and did hyperparameter tuning to improve the models. And Citina also did the 10-fold cross-validation on weighted SVM and weighted Lasso. 
+
+Xinyi Wei implemented the Random Forest Model, LDA and Logistic model. Xinyi also did the 10-fold cross-validation on weighted Logistic. 
+
+Charles Shin implemented the Naive bayes model, contributed to the presentation slides, and edited the Github repository descriptions.
 
 
 
