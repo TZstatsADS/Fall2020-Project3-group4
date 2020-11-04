@@ -2,7 +2,7 @@
 
 ### Output folder
 
-The baseline.p and advanced.p files contain the train baseline and advanced models respectively.
+The baseline.p and advanced.p files contain the trained baseline and advanced models respectively.
 
 The fiducial_pt_list.p file is a list of the pairwise fiducial points from the training data.
 
